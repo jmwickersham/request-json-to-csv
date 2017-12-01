@@ -1,0 +1,22 @@
+{
+  "name": "request-json-to-csv",
+  "version": "1.0.0",
+  "description": "Script to recursively call an API and save the data to a CSV",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "json-to-csv": "^1.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmwickersham/request-json-to-csv.git"
+  },
+  "author": "jennifer.wickersham",
+  "license": "ISC"
+}
